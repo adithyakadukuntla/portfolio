@@ -11,7 +11,7 @@ function Home() {
             alt=""
             className="imgh w-75  h-auto   "
           />
-          <Link className="sk" to=''>ContactMe</Link>
+         
           </div>
         </div>
         <div className="left col-lg-6 pt-5 p-5 bg-light">
