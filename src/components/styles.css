@@ -147,6 +147,8 @@ span {
   border: solid;
   border-color: rgb(0, 0, 0);
   padding: none;
+  width:75px;
+  height:auto;
   position: relative;
 }
 .imgh:hover {
