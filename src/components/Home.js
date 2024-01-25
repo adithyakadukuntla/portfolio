@@ -3,7 +3,7 @@ import "./styles.css";
 import { Link } from "react-router-dom";
 function Home() {
   return (
-    <div className="container">
+    <div className="container ">
       <div className="row">
         <div className="con col-lg-6  pt-3 ">
           <div className="img-container"><img
@@ -18,7 +18,7 @@ function Home() {
          <p className="names"> I am <br /> <strong className="name">Kadukuntla Adithya.</strong>{" "}
           <br /> Full Stack Developer.</p>
           <p className="fs-5">Student,steady learner,competitive coder</p>
-          <button className="btn p-5  " ><Link className="linkss" to='mailto:adhichiru634@gmail.com?subject=Hello&body=Write your message here'>Let's Talk</Link></button>
+          <button className="btn p-5 bg-light " ><Link className="linkss" to='mailto:adhichiru634@gmail.com?subject=Hello&body=Write your message here'>Let's Talk</Link></button>
         </div>
       </div>
     </div>
